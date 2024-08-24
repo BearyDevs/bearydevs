@@ -1,3 +1,3 @@
 # Hi I'm BearyDevs 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![BearyDevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearydevs)](https://github.com/anuraghazra/github-readme-stats)
