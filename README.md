@@ -1,6 +1,5 @@
 # Hi I'm BearyDevs 👋
 
-[Personal CV Site](https://bearydevs.com)
 
 <p align="center">
     <img src="https://wakatime.com/share/@3b5f442c-0f4a-4621-9df5-3641fafed13f/fbf4b16a-c12a-4d52-9af0-238cb785b5ed.svg" alt="Weekly Coding Activity" style="width: 75%;">
