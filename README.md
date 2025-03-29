@@ -1,4 +1,4 @@
-# Hi I'm BearyDevs 👋
+# Hi I'm Teerapat Wassavanich (BearyDevs) 👋
 
 
 <p align="center">
